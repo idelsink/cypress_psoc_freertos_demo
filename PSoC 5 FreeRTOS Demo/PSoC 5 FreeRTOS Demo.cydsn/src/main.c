@@ -12,7 +12,6 @@
 /**
  * @file main.c
  * @brief Entry point and RTOS resources
- *        for Smart LED Test System - Master
  * @author Ingmar Delsink
  */
 
